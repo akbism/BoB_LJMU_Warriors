@@ -17,5 +17,5 @@ Cheque clearing cycle has been a manual  process to till date resulting in delay
 Manual cheque clearing cycle requires human resources and cost more 
 Current proposal augments the highlighted portion of the check clearing cycle
 
-![image](https://keep.google.com/u/0/media/v2/1MfQV2daUi3HsW2eU00h0XnB3DEvGEcudwoZXty_-K9mXJC8_cRoPA-QFf-9OSQ/1yNJme-kQ_fSb5lNOIxONGOR96gy5DbHtdnN9TsAgiVhaHXTrBqcL3DsTbS9FZx4?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp%2Caudio%2Faac&sz=582)
+![image](/Cheque Clearing Cycle.png)
 
